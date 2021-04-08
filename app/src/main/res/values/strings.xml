@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tugas1_10118348</string>
+    <string name="create_account"><font color="#00ff00">text</font></string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="register">Register</string>
+    <string name="back_to_login">Back to Login</string>
+    <string name="hello_there">Hello There,You Weeb !</string>
+    <string name="register_you_pleb">Register You Pleb !</string>
+    <string name="made_in_07_08_2021">Made In : 07-08-2021</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="registeri">Register</string>
+    <string name="bye">BYE</string>
+</resources>
